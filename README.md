@@ -217,8 +217,4 @@ anchor test
 - Some on-chain math/paths are still in progress; treat this repo as a reference implementation and adapt for production.
 
 
-## License
-
-ISC
-
 
